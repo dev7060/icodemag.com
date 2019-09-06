@@ -12,7 +12,7 @@ Since the newly created file doesn't have a name and extension, in order to give
 
 Enter the file name and select the location where the file should be created. Also, the file type should be selected as "C/C++ files".
 
-Once the steps above are completed, the file "fileName.c"  should be viewed in the current working tab.
+Once the steps above are completed, the file "fileName.c"  should be viewed in the current working tab.
 
 Hello World in C Programming Language
 
@@ -36,7 +36,7 @@ Every line of code is called as a statement.
 #include <stdio.h>
 Statements starting with "#" are called as pre-processor directives. These statements are executed before the processing of the actual program. They instruct to include the required files for further process, define macros etc.
 stdio.h : This is a header file. Header files have the extension .h . Here, stdio stands for standard input-output. The prototype of printf() [a standard output function] is declared in stdio.h .
-int main(){    }
+int main(){    }
 main() is the only function which gets executed at first. If there is no main, there is no working of program at all.
 "int" is the return type of main. Every function can either return a value or not.
 ( ) : Every function name ends with the parentheses. These parenthesis can also contain arguments in it.
